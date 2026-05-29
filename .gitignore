@@ -1,0 +1,29 @@
+# 压缩包、大文件
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# 模型文件
+*.pth
+*.pt
+*.onnx
+*.h5
+
+# 数据集目录
+data/
+datasets/
+dataset/
+
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# 缓存
+__pycache__/
+*.pyc
+
+# 特定文件
+数据集/
